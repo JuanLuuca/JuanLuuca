@@ -1,5 +1,7 @@
 ### 👋 Olá! Eu sou o Juan Correa  
 
+![Juan Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanLucas&show_icons=true&theme=onedark)
+
 💻 **Desenvolvedor .NET e Full Stack** apaixonado por arquitetura de software, boas práticas e soluções escaláveis. Tenho experiência com desenvolvimento back-end e front-end, trabalhando com C# .NET, React, Angular, SQL Server e MongoDB.  
 
 🚀 **Principais Tecnologias:**  
@@ -9,7 +11,7 @@
 - 🔹 **Arquitetura:** Microsserviços, SOLID, DDD, CQRS  
 - 🔹 **DevOps:** Docker, Kubernetes, Azure DevOps, GitLab CI/CD  
 
-📌 **Projetos Relevantes:** _(fixe os mais importantes no seu GitHub)_  
+📌 **Projetos Relevantes:** 
 - 🏦 **[Automação de Extratos Bancários](#)** – Processamento automatizado de extratos via SQL Server e Quartz.NET  
 - 📊 **[Gerenciamento de Filas em Tempo Real](#)** – Aplicação utilizando SignalR para comunicação assíncrona  
 
@@ -22,8 +24,3 @@
 - Sempre buscando aprender e aplicar boas práticas de desenvolvimento.  
 - Interessado em arquitetura de software, clean code e DevOps.  
 
----
-
-💡 *Dica:* Para adicionar esse README ao seu perfil do GitHub, basta criar um repositório com o **exato mesmo nome do seu usuário** (exemplo: `juanluuca`). Depois, adicione um arquivo `README.md` com esse conteúdo!  
-
-Me avise se quiser que eu personalize algo mais para você! 🚀
