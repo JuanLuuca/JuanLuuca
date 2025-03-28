@@ -1,24 +1,29 @@
-### Olá! Eu sou o Juan Lucas 👋
-<br/>
+### 👋 Olá! Eu sou o Juan Correa  
 
+💻 **Desenvolvedor .NET e Full Stack** apaixonado por arquitetura de software, boas práticas e soluções escaláveis. Tenho experiência com desenvolvimento back-end e front-end, trabalhando com C# .NET, React, Angular, SQL Server e MongoDB.  
 
-![Juan Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanLucas&show_icons=true&theme=onedark)
+🚀 **Principais Tecnologias:**  
+- 🔹 **Back-End:** .NET (ASP.NET Core, Entity Framework), Node.js (NestJS)  
+- 🔹 **Front-End:** React, Next.js, Angular (RxJS, NgRx)  
+- 🔹 **Bancos de Dados:** SQL Server, MySQL, MongoDB  
+- 🔹 **Arquitetura:** Microsserviços, SOLID, DDD, CQRS  
+- 🔹 **DevOps:** Docker, Kubernetes, Azure DevOps, GitLab CI/CD  
 
+📌 **Projetos Relevantes:** _(fixe os mais importantes no seu GitHub)_  
+- 🏦 **[Automação de Extratos Bancários](#)** – Processamento automatizado de extratos via SQL Server e Quartz.NET  
+- 📊 **[Gerenciamento de Filas em Tempo Real](#)** – Aplicação utilizando SignalR para comunicação assíncrona  
 
-### Tecnologias que eu uso no meu dia
+📫 **Onde me encontrar:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juan-lucas-/)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react)](#)  
 
-<div style="display:inline-block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="HTML5" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-    <img align="center" alt="HTML5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-    <img align="center" alt="HTML5" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
-    <img align="center" alt="HTML5" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
-    
-</div><br/>
+⚡ **Fatos sobre mim:**  
+- Gosto de resolver problemas e otimizar processos com tecnologia.  
+- Sempre buscando aprender e aplicar boas práticas de desenvolvimento.  
+- Interessado em arquitetura de software, clean code e DevOps.  
 
-Sou apaixonado por tecnologia, amante de instrumentos musicais e jogos nos tempos vagos
+---
 
-## contatos:
+💡 *Dica:* Para adicionar esse README ao seu perfil do GitHub, basta criar um repositório com o **exato mesmo nome do seu usuário** (exemplo: `juanluuca`). Depois, adicione um arquivo `README.md` com esse conteúdo!  
 
-#### Gmail: juanluuca3@gmail.com
-#### Whatsapp: (92) 9 8476 9634
+Me avise se quiser que eu personalize algo mais para você! 🚀
